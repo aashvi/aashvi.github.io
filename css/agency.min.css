@@ -242,11 +242,13 @@ header .intro-text .intro-lead-in {
 }
 header .intro-text .intro-heading {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
-    font-weight: 700;
+    
+    font-weight: 400;
     font-size: 50px;
     line-height: 50px;
-    margin-bottom: 25px
+    margin-bottom: 25px;
+    color : #000000;
+
 }
 @media (min-width: 768px) {
     header .intro-text {
@@ -294,7 +296,7 @@ section h3.section-subheading {
     }
 }
 .service-heading {
-    margin: 15px 0;
+    margin: 0px 0;
     text-transform: none
 }
 #portfolio .portfolio-item {
