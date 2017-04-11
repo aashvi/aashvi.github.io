@@ -1,3 +1,3 @@
-# Safinah Ali, Interaction Designer
+# Ayush Agrawal , Let's build something.
 
 ## Portfolio
